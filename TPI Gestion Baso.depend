@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1751382610 source:c:\users\tepsi\desktop\facultad\programacion\tpi-gestion-baso\tpi gestion baso\main.cpp
+	<iostream>
+	"structs.h"
+	"funciones.h"
+
+1751375555 c:\users\tepsi\desktop\facultad\programacion\tpi-gestion-baso\tpi gestion baso\structs.h
+	<string>
+
+1751382397 c:\users\tepsi\desktop\facultad\programacion\tpi-gestion-baso\tpi gestion baso\funciones.h
+	"structs.h"
+
+1751382562 source:c:\users\tepsi\desktop\facultad\programacion\tpi-gestion-baso\tpi gestion baso\funciones.cpp
+	"funciones.h"
+	<cctype>
+	<iostream>
+	<string>
+	"structs.h"
+	<cstdlib>
+	<ctime>
+
+1751382562 source:c:\users\tepsi\desktop\facultad\programacion\tpi-gestion-baso\tpi gestion utn\funciones.cpp
+	"funciones.h"
+	<cctype>
+	<iostream>
+	<string>
+	"structs.h"
+	<cstdlib>
+	<ctime>
+
+1751382397 c:\users\tepsi\desktop\facultad\programacion\tpi-gestion-baso\tpi gestion utn\funciones.h
+	"structs.h"
+
+1751375555 c:\users\tepsi\desktop\facultad\programacion\tpi-gestion-baso\tpi gestion utn\structs.h
+	<string>
+
+1751391925 source:c:\users\tepsi\desktop\facultad\programacion\tpi-gestion-baso\tpi gestion utn\main.cpp
+	<iostream>
+	"structs.h"
+	"funciones.h"
+
